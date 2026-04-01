@@ -1,0 +1,1 @@
+cl.exe containedCPayload.c /nologo /GS- /O1 /Fe:payload.exe /link /ENTRY:mainCRTStartup /NODEFAULTLIB /SUBSYSTEM:WINDOWS
